@@ -24,7 +24,7 @@ Read the CAIPE [Contributing Guide](https://github.com/caipe-io/governance/blob/
 * [#caipe-community on CNCF Slack](https://cloud-native.slack.com/archives/C08N0AKR52S)
 * [Weekly Community Meeting](https://caipe.io/community/#weekly-community-meeting)
 * [GitHub Discussions](https://github.com/caipe-io/ai-platform-engineering/discussions)
-* [Project Roadmap](https://caipe.io/roadmap/)
+* [Project Roadmap](https://github.com/orgs/caipe-io/projects/1)
 * [Meeting Recordings](https://www.youtube.com/@cnoe-community)
 
 ### Steering Committee
