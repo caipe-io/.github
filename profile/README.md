@@ -8,8 +8,6 @@ CAIPE is an open-source **AI platform** for building, deploying, governing, and 
 
 Start with the [CAIPE Quick Start](https://caipe.io/docs/getting-started/quick-start) to run the platform locally or on Kubernetes. The [CAIPE documentation](https://caipe.io/docs/getting-started/) also covers architecture, installation, features, integrations, and development.
 
-For a guided introduction, work through the [CAIPE hands-on labs](https://caipe.io/docs/workshop/caipeintro/) to learn single-agent design, multi-agent orchestration, retrieval-augmented generation, and distributed tracing by building with the platform.
-
 Love our mission and work? We would be delighted to collaborate with you. Here are a few ways to get involved:
 
 * Pick up a [good first issue](https://github.com/search?q=org%3Acaipe-io+type%3Aissue+label%3A%22good+first+issue%22&type=issues).
