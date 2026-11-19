@@ -37,3 +37,8 @@ The current [CAIPE Steering Committee](https://github.com/caipe-io/governance/bl
 * Sibu Thomas Matthew ([@sibuthomasmathew](https://github.com/sibuthomasmathew))
 * Sri Aradhyula ([@sriaradhyula](https://github.com/sriaradhyula))
 * Sunny Whang ([@suwhang-cisco](https://github.com/suwhang-cisco))
+
+## License
+
+This repository's documentation is licensed under the
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://github.com/caipe-io/.github/blob/main/LICENSE).
